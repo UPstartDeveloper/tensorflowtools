@@ -9,7 +9,7 @@ __pycache__/
 # OS, Editor, and Test Assets
 .DS_Store
 .vscode
-*test-models/*
+test-models/
 
 # Distribution / packaging
 .Python
